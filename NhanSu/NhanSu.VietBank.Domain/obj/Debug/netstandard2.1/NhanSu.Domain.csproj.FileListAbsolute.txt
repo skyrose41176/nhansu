@@ -1,0 +1,10 @@
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\bin\Debug\netstandard2.1\NhanSu.VietBank.Domain.deps.json
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\bin\Debug\netstandard2.1\NhanSu.VietBank.Domain.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\bin\Debug\netstandard2.1\NhanSu.VietBank.Domain.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.csproj.AssemblyReference.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.AssemblyInfoInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.AssemblyInfo.cs
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.csproj.CoreCompileInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Domain\obj\Debug\netstandard2.1\NhanSu.VietBank.Domain.pdb

@@ -1,0 +1,15 @@
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.deps.json
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Application.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Domain.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Application.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\NhanSu.VietBank.Domain.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.csproj.AssemblyReference.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.AssemblyInfo.cs
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.csproj.CopyComplete
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\NhanSu.VietBank.Infrastructure.Persistence.pdb

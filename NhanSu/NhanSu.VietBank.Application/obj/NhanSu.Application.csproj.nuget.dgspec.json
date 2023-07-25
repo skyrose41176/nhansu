@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Application\\NhanSu.VietBank.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Application\\NhanSu.VietBank.Application.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Application\\NhanSu.VietBank.Application.csproj",
+        "projectName": "NhanSu.VietBank.Application",
+        "projectPath": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Application\\NhanSu.VietBank.Application.csproj",
+        "packagesPath": "C:\\Users\\tinhpt\\.nuget\\packages\\",
+        "outputPath": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tinhpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["netstandard2.1"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\NhanSu.VietBank.Domain.csproj": {
+                "projectPath": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\NhanSu.VietBank.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\NhanSu.VietBank.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\NhanSu.VietBank.Domain.csproj",
+        "projectName": "NhanSu.VietBank.Domain",
+        "projectPath": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\NhanSu.VietBank.Domain.csproj",
+        "packagesPath": "C:\\Users\\tinhpt\\.nuget\\packages\\",
+        "outputPath": "D:\\NhanSu\\NhanSu\\NhanSu.VietBank.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tinhpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["netstandard2.1"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

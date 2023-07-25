@@ -1,0 +1,17 @@
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.deps.json
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Application.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Domain.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Application.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\bin\Debug\net6.0\NhanSu.VietBank.Domain.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.AssemblyInfo.cs
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.csproj.CopyComplete
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\refint\NhanSu.VietBank.Infrastructure.Shared.dll
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\NhanSu.VietBank.Infrastructure.Shared.pdb
+D:\NhanSu\NhanSu\NhanSu.VietBank.Infrastructure.Shared\obj\Debug\net6.0\ref\NhanSu.VietBank.Infrastructure.Shared.dll
